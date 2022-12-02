@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PitocoFriendUltimateIntegrator</string>
+    <string name="facebook_app_id">1350930718987292</string>
+    <string name="fb_login_protocol_scheme">fb1350930718987292</string>
+    <string name="facebook_client_token">6501c7ba37e629bbf7cdd5615601c50e</string>
+</resources>
